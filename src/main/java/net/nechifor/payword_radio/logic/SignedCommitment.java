@@ -1,11 +1,11 @@
-package si_t6.logic;
+package net.nechifor.payword_radio.logic;
 
 import java.security.interfaces.RSAPrivateKey;
 import java.security.interfaces.RSAPublicKey;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import si_t6.util.RSA;
-import si_t6.util.Util;
+import net.nechifor.payword_radio.util.RSA;
+import net.nechifor.payword_radio.util.Util;
 
 public class SignedCommitment
 {

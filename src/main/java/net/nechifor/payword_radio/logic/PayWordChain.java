@@ -1,8 +1,8 @@
-package si_t6.logic;
+package net.nechifor.payword_radio.logic;
 
 import java.security.MessageDigest;
 import javax.xml.bind.DatatypeConverter;
-import si_t6.util.Util;
+import net.nechifor.payword_radio.util.Util;
 
 public class PayWordChain
 {

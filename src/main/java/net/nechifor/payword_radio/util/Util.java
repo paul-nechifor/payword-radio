@@ -1,4 +1,4 @@
-package si_t6.util;
+package net.nechifor.payword_radio.util;
 
 import java.io.File;
 import java.io.FileInputStream;

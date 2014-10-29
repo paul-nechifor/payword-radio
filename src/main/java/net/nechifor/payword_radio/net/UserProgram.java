@@ -1,4 +1,4 @@
-package si_t6.net;
+package net.nechifor.payword_radio.net;
 
 import java.awt.EventQueue;
 import java.io.EOFException;
@@ -20,13 +20,13 @@ import javax.swing.UIManager;
 import javax.xml.bind.DatatypeConverter;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import si_t6.gui.MainWindow;
-import si_t6.logic.Commitment;
-import si_t6.logic.PayWordChain;
-import si_t6.util.RSA;
-import si_t6.logic.SignedCertificate;
-import si_t6.logic.SignedCommitment;
-import si_t6.util.Util;
+import net.nechifor.payword_radio.gui.MainWindow;
+import net.nechifor.payword_radio.logic.Commitment;
+import net.nechifor.payword_radio.logic.PayWordChain;
+import net.nechifor.payword_radio.util.RSA;
+import net.nechifor.payword_radio.logic.SignedCertificate;
+import net.nechifor.payword_radio.logic.SignedCommitment;
+import net.nechifor.payword_radio.util.Util;
 
 public class UserProgram
 {

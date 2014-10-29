@@ -1,23 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/*
- * Window.java
- *
- * Created on 14.01.2012, 23:16:36
- */
-
-package si_t6.gui;
+package net.nechifor.payword_radio.gui;
 
 import javax.swing.JFrame;
-import si_t6.net.UserProgram;
+import net.nechifor.payword_radio.net.UserProgram;
 
-/**
- *
- * @author p
- */
 public class MainWindow extends javax.swing.JFrame {
 
     private UserProgram userProgram;

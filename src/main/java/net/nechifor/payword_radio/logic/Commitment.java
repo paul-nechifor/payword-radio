@@ -1,10 +1,10 @@
-package si_t6.logic;
+package net.nechifor.payword_radio.logic;
 
 import java.net.InetSocketAddress;
 import java.util.Date;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import si_t6.util.Util;
+import net.nechifor.payword_radio.util.Util;
 
 public class Commitment
 {

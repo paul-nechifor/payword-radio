@@ -1,4 +1,4 @@
-package si_t6.net;
+package net.nechifor.payword_radio.net;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

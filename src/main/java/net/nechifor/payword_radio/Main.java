@@ -1,9 +1,9 @@
-package si_t6;
+package net.nechifor.payword_radio;
 
 import java.io.File;
-import si_t6.net.Broker;
-import si_t6.net.UserProgram;
-import si_t6.net.Vendor;
+import net.nechifor.payword_radio.net.Broker;
+import net.nechifor.payword_radio.net.UserProgram;
+import net.nechifor.payword_radio.net.Vendor;
 
 public class Main
 {

@@ -1,4 +1,4 @@
-package si_t6.net;
+package net.nechifor.payword_radio.net;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.net.Socket;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import si_t6.util.Util;
+import net.nechifor.payword_radio.util.Util;
 
 public class Message
 {
