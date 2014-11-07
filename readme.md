@@ -15,14 +15,17 @@ This project is written in Java and can be run as three different roles:
 * a GUI **client** which can connect to a vendor to receive and play audio data
 and pays for it.
 
-## Running it
+## Build it
 
-These two files are missing from here because they are copyrighted:
+Compile everything in a single binary:
 
-* `files/downstream.wav`
-* `files/dreamland.wav`
+    mvn clean compile assembly:single
 
-They should be replaced by any WAV files.
+## Run it
+
+Run this to see the options:
+
+    java -jar target/payword-radio.jar
 
 ## License
 
