@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/payword-radio](http://gitlab.com/paul-nechifor/payword-radio).
+
+Old readme:
+
 # PayWord Radio
 
 An implementation of the [PayWord micropayment scheme][1] as an audio streaming
